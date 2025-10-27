@@ -1,14 +1,18 @@
-# 👾 Hey, I'm Tommy
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Game+Dev+Enthusiast;Building+Cool+Stuff+Daily)](https://git.io/typing-svg)
+# 👾 Hey, I'm Tommy
 
-![Profile Views](https://komarev.com/ghpvc/?username=TianqiYe&color=brightgreen&style=flat-square)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7F7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+Game+Dev+Enthusiast+%F0%9F%8E%AE;Building+Cool+Stuff+Every+Day+%F0%9F%92%BB;Welcome+to+My+GitHub!+%E2%9C%A8)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+![Profile Views](https://komarev.com/ghpvc/?username=TianqiYe&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 
@@ -17,54 +21,69 @@ I build things with code - from AI-powered games to developer tools. Currently e
 ```typescript
 const tommy = {
     username: "TianqiYe",
-    currentlyWorking: ["Distiller SDK", "AI Town", "Game Generation"],
+    currentlyWorking: ["Distiller SDK", "AI Town", "Game Gen"],
     techStack: ["TypeScript", "Python", "JavaScript"],
-    interests: ["AI/ML", "Game Dev", "Dev Tools", "Discord Bots"],
+    interests: ["AI/ML", "Game Dev", "Dev Tools"],
     funFact: "I automate everything I can"
 };
 ```
+
+<br clear="right"/>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🎮 [AI Town Hack Day](https://github.com/TianqiYe/ai-town-hack-day)
+<table>
+<tr>
+<td width="50%">
+
+### 🎮 AI Town Hack Day
 Virtual town where AI characters live, chat and socialize autonomously
-- **Stack:** TypeScript, AI/ML
-- **Status:** Active
 
-### 🎯 [Game Generator](https://github.com/TianqiYe/gameGen)
+**Tech Stack:** TypeScript, AI/ML
+**Status:** 🟢 Active
+
+</td>
+<td width="50%">
+
+### 🎯 Game Generator
 AI-powered game generation system
-- **Stack:** TypeScript, Python
-- **Status:** Experimental
 
-### 🤖 [Olivia Discord UI](https://github.com/TianqiYe/olivia-discord-ui) ⭐⭐
+**Tech Stack:** TypeScript, Python
+**Status:** 🧪 Experimental
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Olivia Discord UI ⭐⭐
 Discord bot with custom UI components
-- **Stack:** Python
-- **Status:** 2 stars and growing!
 
-### 🔧 [Distiller SDK](https://github.com/TianqiYe/distillerSDK)
+**Tech Stack:** Python
+**Status:** 🚀 2 stars and growing!
+
+</td>
+<td width="50%">
+
+### 🔧 Distiller SDK
 Python SDK for hardware integration
-- **Stack:** Python
-- **Status:** In Development
+
+**Tech Stack:** Python
+**Status:** 🔨 In Development
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Tech Arsenal
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,nodejs,react,discord,git,github,vscode,docker&theme=dark" />
+</p>
 
 ---
 
@@ -72,20 +91,32 @@ Python SDK for hardware integration
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TianqiYe&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianqiYe&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TianqiYe&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TianqiYe&theme=radical&hide_border=true" />
 
 </div>
 
 <div align="center">
+  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=TianqiYe&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TianqiYe&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TianqiYe&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TianqiYe/TianqiYe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
 
 ## 🎯 Current Focus
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 - 🤖 Building AI-powered interactive experiences
 - 🎮 Exploring procedural game generation
@@ -94,24 +125,27 @@ Python SDK for hardware integration
 
 ---
 
-## 💡 Fun Projects in the Works
+## 🏆 GitHub Trophies
 
-```
-├── 🎭 AI Town - Autonomous AI characters socializing
-├── 🎲 Game Generator - AI creates playable games
-├── 🤖 Discord Bots - Custom UI components
-└── 🔧 Developer Tools - Making dev life easier
-```
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TianqiYe&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TianqiYe&theme=radical" />
+</div>
+
+---
+
+## 💡 Random Dev Quote
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-TianqiYe-181717?style=for-the-badge&logo=github)](https://github.com/TianqiYe)
-
-**💬 Open to collaborations on AI, Game Dev, and Dev Tools projects!**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
@@ -119,10 +153,14 @@ Python SDK for hardware integration
 
 <div align="center">
 
-### ⚡ Quote of the Day
+### 💬 Let's Connect!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-TianqiYe-181717?style=for-the-badge&logo=github)](https://github.com/TianqiYe)
 
-<sub>🚀 Built with gh CLI and code magic</sub>
+**Open to collaborations on AI, Game Dev, and Dev Tools projects!**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+<sub>⚡ Built with gh CLI | Last updated: $(date)</sub>
 
 </div>
