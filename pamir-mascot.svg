@@ -4,45 +4,45 @@
     <style>
       @keyframes float {
         0%, 100% { transform: translateY(0px) rotate(0deg); }
-        50% { transform: translateY(-10px) rotate(2deg); }
+        50% { transform: translateY(-5px) rotate(1deg); }
       }
       @keyframes wave-arm {
         0%, 100% { transform: rotate(0deg); transform-origin: 25px 80px; }
-        50% { transform: rotate(-15deg); transform-origin: 25px 80px; }
+        50% { transform: rotate(-8deg); transform-origin: 25px 80px; }
       }
       @keyframes blink {
-        0%, 90%, 100% { opacity: 1; }
-        95% { opacity: 0; }
+        0%, 93%, 100% { opacity: 1; }
+        96% { opacity: 0; }
       }
       @keyframes antenna-left {
-        0%, 100% { transform: rotate(-5deg); transform-origin: 95px 20px; }
-        50% { transform: rotate(5deg); transform-origin: 95px 20px; }
+        0%, 100% { transform: rotate(-3deg); transform-origin: 95px 20px; }
+        50% { transform: rotate(3deg); transform-origin: 95px 20px; }
       }
       @keyframes antenna-right {
-        0%, 100% { transform: rotate(5deg); transform-origin: 120px 20px; }
-        50% { transform: rotate(-5deg); transform-origin: 120px 20px; }
+        0%, 100% { transform: rotate(3deg); transform-origin: 120px 20px; }
+        50% { transform: rotate(-3deg); transform-origin: 120px 20px; }
       }
       @keyframes glow {
-        0%, 100% { opacity: 0.6; }
+        0%, 100% { opacity: 0.8; }
         50% { opacity: 1; }
       }
       .mascot-body {
-        animation: float 3s ease-in-out infinite;
+        animation: float 6s ease-in-out infinite;
       }
       .left-arm {
-        animation: wave-arm 2s ease-in-out infinite;
+        animation: wave-arm 4s ease-in-out infinite;
       }
       .eye {
-        animation: blink 4s ease-in-out infinite;
+        animation: blink 5s ease-in-out infinite;
       }
       .antenna-left {
-        animation: antenna-left 1.5s ease-in-out infinite;
+        animation: antenna-left 3s ease-in-out infinite;
       }
       .antenna-right {
-        animation: antenna-right 1.5s ease-in-out infinite 0.3s;
+        animation: antenna-right 3s ease-in-out infinite 0.5s;
       }
       .stripe {
-        animation: glow 2s ease-in-out infinite;
+        animation: glow 4s ease-in-out infinite;
       }
     </style>
     <clipPath id="clippath">
