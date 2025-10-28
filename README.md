@@ -2,6 +2,8 @@
 
 ![TIANQI YE](./tommy.svg)
 
+<img src="./pamir-mascot.svg" width="200" alt="Pamir Mascot" />
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D97757&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%3E+whoami;tianqi_ye;%3E+cat+role.txt;Full+Stack+Developer+%7C+AI+%26+Game+Dev)](https://git.io/typing-svg)
 
 ```
