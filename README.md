@@ -33,4 +33,21 @@
 
 *Last updated: 2025-10-27*
 
+---
+
+## 🍽️ Popular Spots Near Me
+
+📍 **San Francisco, CA (94109)** - Russian Hill/Nob Hill
+
+### 🔥 Top Picks:
+- **House of Prime Rib** - SF institution since 1949, massive prime rib portions 🥩
+- **Acquerello** ⭐⭐ - 2 Michelin stars, 25 years of Italian excellence
+- **Sons & Daughters** - Nordic-inspired $295 tasting menu (spot prawns, halibut)
+- **Za Pizza** - Thin crust slices under $5 🍕
+- **Hot Sauce and Panko** - Wings with Korean buldak sauce, cilantro jalapeño 🔥
+- **Cheese Plus** - Gourmet sandwiches (Willie Brown Bird, Castro Cubano)
+- **Nob Hill Cafe** - Candlelit Italian, classic carbonara & penne vodka
+
+*Auto-updated based on device location*
+
 </div>
