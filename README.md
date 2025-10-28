@@ -35,19 +35,23 @@
 
 ---
 
-## 🍽️ Popular Spots Near Me
+## 🛒 What's Selling Near Me (SF Bay Craigslist)
 
-📍 **San Francisco, CA (94109)** - Russian Hill/Nob Hill
+📍 **San Francisco, CA**
 
-### 🔥 Top Picks:
-- **House of Prime Rib** - SF institution since 1949, massive prime rib portions 🥩
-- **Acquerello** ⭐⭐ - 2 Michelin stars, 25 years of Italian excellence
-- **Sons & Daughters** - Nordic-inspired $295 tasting menu (spot prawns, halibut)
-- **Za Pizza** - Thin crust slices under $5 🍕
-- **Hot Sauce and Panko** - Wings with Korean buldak sauce, cilantro jalapeño 🔥
-- **Cheese Plus** - Gourmet sandwiches (Willie Brown Bird, Castro Cubano)
-- **Nob Hill Cafe** - Candlelit Italian, classic carbonara & penne vodka
+| Item | Price | Location |
+|------|-------|----------|
+| Knoll ReGeneration Chair w/ Lumbar | $285 | San Jose |
+| SONY CFD-S70 Boombox (CD/Cassette/Radio) | $100 | Walnut Creek |
+| Handblown Glass Elephant | $75 | Walnut Creek |
+| Wrist Recording Pulse Oximeter (New) | $45 | Walnut Creek |
+| 3T Girls Clothes (12 pieces) | $28 | SF |
+| Tracy Porter Painted Plates + Candle | $25 | Petaluma |
+| Andrew World Counter Stool | $220 | San Jose |
+| Mens Incontinence Briefs (9 pairs) | $20 | Walnut Creek |
+| Gymboree Dresses (Big Girls 7/8) | $20 | SF |
+| Infrared Thermometer (New) | $13 | Walnut Creek |
 
-*Auto-updated based on device location*
+*Auto-scraped from local Craigslist*
 
 </div>
