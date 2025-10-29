@@ -1,8 +1,6 @@
 <div align="center">
 
-![TIANQI YE](./tommy.svg)
-
-<img src="./pamir-mascot.svg" width="200" alt="Pamir Mascot" />
+![Neural Circuitry - Generative Art](./neural-circuitry-96217.png)
 
 </div>
 
